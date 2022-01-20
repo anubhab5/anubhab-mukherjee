@@ -1,0 +1,14 @@
+:host {
+    height: 75vh;
+    width : 75vw;
+}
+
+main {
+    position : absolute;
+    top      : 12%;
+    left     : 50%;
+    transform: translate(-50%, 0);
+    width    : 95vw;
+    height   : 75vh;
+    border   : solid 5px #3a3838;
+}
